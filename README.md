@@ -362,7 +362,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/file/d/1zBTSEHcl3gHH515aIOMaYDCyrO7hm7np/view?usp=drivesdk
 
 This demo video demonstrates the core features of EventHorizon, including 
 browsing upcoming events, viewing event details, accessing the timeline/calendar view, 
