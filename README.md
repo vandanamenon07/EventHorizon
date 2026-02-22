@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# EventHorizon
 
-## Basic Details
+## Event Horizon is a centralized web platform that displays events from multiple colleges in one place. It helps students easily discover and explore inter-college events in a simple and organized way.
 
-### Team Name: [Name]
+### Team Name: [HerStack]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Vandana Menon] - [TocH Institute Of Science And Technology]
+- Member 2: [Sreya Sreejith] - [TocH Institute Of Science And Technology]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://event-horizon-six-dusky.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Event Horizon is a centralized web platform that displays events from multiple colleges in one place. It helps students easily discover and explore inter-college events in a simple and organized way.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Students often miss inter-college events because information is scattered across different platforms like social media and posters. There is no centralized system to easily discover and compare events in one place. This creates a need for a unified web platform that aggregates and organizes events from multiple colleges, making event discovery simple and accessible]
 
 ### The Solution
-[How are you solving it?]
+[We developed a centralized web platform that displays events from multiple colleges in one place. The website allows students to view event details such as event name, hosting college, date, and category in a structured format. This makes it easier for students to discover, explore, and participate in inter-college events without relying on scattered sources.]
 
 ---
 
@@ -31,10 +31,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: Css,Html,JavaScript
+- Frameworks used: none
+- Libraries used: none
+- Tools used: VS Code,Git,GitHub,Vercel
 
 **For Hardware:**
 - Main components: [List main components]
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Centralized platform to view events from multiple colleges
+- Feature 2: Organized display of event details (name, college, date, category)
+- Feature 3: Simple and structured layout for easy event discovery
+- Feature 4: Accessible web-based platform for students anywhere
 
 ---
 
@@ -59,11 +59,15 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+# Clone the repository
+git clone https://github.com/your-username/EventHorizon.git
+
+# Open the project folder
+cd EventHorizon
 
 #### Run
 ```bash
+# Open index.html in your browser
 [Run commands - e.g., npm start, python app.py]
 ```
 
@@ -83,14 +87,15 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]<img width="1860" height="860" alt="homepage" src="https://github.com/user-attachments/assets/639a361d-f368-44f7-9ce4-f60f7aed666a" />
+Displays the main landing page of Event Horizon with a search bar, navigation menu, and filter options to explore events (All, Upcoming, Live, Past, Timelines).
+![Screenshot2] <img width="1850" height="834" alt="events-carousel" src="https://github.com/user-attachments/assets/0ce47d5b-9a58-481f-a7d1-95b4c82d3a18" />
+Displays a dedicated section highlighting upcoming events from different colleges. Events are presented as interactive cards, allowing users to quickly identify hosting institutions and explore more details.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3] <img width="1826" height="886" alt="Timeline2" src="https://github.com/user-attachments/assets/00df455d-2b38-475c-a070-f27e7e9033d7" />
+ Displays the Timeline section with a calendar-based interface where events are organized by date. This page allows users to visually track upcoming events and identify important dates easily through highlighted indicators.
+Displays a monthly calendar layout where events are highlighted on specific dates. This helps users easily identify event schedules and track important days at a glance.
 
 #### Diagrams
 
