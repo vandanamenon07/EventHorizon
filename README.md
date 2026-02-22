@@ -36,10 +36,6 @@
 - Libraries used: none
 - Tools used: VS Code,Git,GitHub,Vercel
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
 
 ---
 
@@ -368,7 +364,9 @@ python script.py -v --format json data.json
 ### Video
 [Add your demo video link here - YouTube, Google Drive, etc.]
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
+This demo video demonstrates the core features of EventHorizon, including 
+browsing upcoming events, viewing event details, accessing the timeline/calendar view, 
+and navigating through the platform. It highlights the user flow and overall interface design.
 
 ### Additional Demos
 [Add any extra demo materials/links - Live site, APK download, online demo, etc.]
@@ -379,12 +377,9 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
-
+**Tool Used:**  Chatgpt
 **Purpose:** [What you used it for]
-- Example: "Generated boilerplate React components"
-- Example: "Debugging assistance for async functions"
-- Example: "Code review and optimization suggestions"
+  Code review and optimization suggestions
 
 **Key Prompts Used:**
 - "Create a REST API endpoint for user authentication"
@@ -405,9 +400,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- [Vandana Menon]: Specific contributions - Frontend development,Documentation
+- [Sreya Sreejith]: Specific contributions -  UI/UX design, Documentation
 
 ---
 
